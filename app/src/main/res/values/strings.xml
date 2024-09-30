@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Survey_App_Enhanced</string>
+    <string name="yes_Button">Yes</string>
+    <string name="no_Button">No</string>
+    <string name="counter_Yes">0</string>
+    <string name="counter_No">0</string>
+    <string name="clear_Button">Reset</string>
+    <string name="question_Text">TextView</string>
+    <string name="question_1">Does pineapple belong on pizza?</string>
+    <string name="question_2">Are the Vikings going to win the Superbowl?</string>
+    <string name="question_3">Can you do a handstand?</string>
+    <string name="question_4">Would you like to go to space?</string>
+    <string name="yes_Answers_Txt">Name</string>
+    <string name="no_Answers_Txt">No Answers</string>
+    <string name="results_Txt">RESULTS</string>
+    <string name="yes_answers_Txt">Yes Answers</string>
+</resources>
